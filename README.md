@@ -1,2 +1,2 @@
-# weathgerforecasting
+# weatherforecasting
 web project
